@@ -1,4 +1,4 @@
-# Awesome Research Agent
+# Awesome Deep Research Agent
 
 A curated list of papers, projects, and resources for research agents.
 <p align="center">
