@@ -19,8 +19,9 @@ We curate and distill the emerging landscape of Deep Research agents—LLM‑p
 ✨✨✨ *LLM Agents for Deep Research: Necessity, Advances and Future Directions* <!-- 论文还未公开 -->
 
 ![A structural overview of a DR agent](assets/structual.png)
+*Figure 1  Structural overview of a DR agent*
 ![Workflow of DR](assets/workflow.png)
-
+*Figure 2  Typical workflow of Deep Research (DR) agents*
 
 # Awesome Papers
 
