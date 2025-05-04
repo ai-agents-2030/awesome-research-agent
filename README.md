@@ -16,8 +16,8 @@ We curate and distill the emerging landscape of Deep Research agents—LLM‑p
 
 ## Our Works Towards DR Agents
 ✨✨✨ [LLM AGENTS FOR DEEP RESEARCH: NECESSITY, ADVANCES AND FUTURE DIRECTIONS]() (Paper)
-![A structural overview of a DR agent]()
-![Workflow of DR]()
+![A structural overview of a DR agent](assets/structual.png)
+![Workflow of DR](assests/workflow.png)
 
 # Awesome Papers
 
