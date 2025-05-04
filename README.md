@@ -15,7 +15,7 @@ We curate and distill the emerging landscape of Deep Research agents—LLM‑p
 🔥 This project is actively maintained, and we welcome your contributions. If you have any suggestions, such as missing papers or information, please feel free to open an issue or submit a pull request.
 
 ## Our Works Towards DR Agents
-✨✨✨ [LLM AGENTS FOR DEEP RESEARCH: NECESSITY, ADVANCES AND FUTURE DIRECTIONS]() (Paper)
+✨✨✨ [LLM AGENTS FOR DEEP RESEARCH: NECESSITY, ADVANCES AND FUTURE DIRECTIONS](Paper)
 ![A structural overview of a DR agent](assets/structual.png)
 ![Workflow of DR](assests/workflow.png)
 
